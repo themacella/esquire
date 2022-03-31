@@ -1,0 +1,17 @@
+{
+  "name": "dark-voice-bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "author": "polemikal",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.11.8",
+    "request": "^2.88.2"
+  }
+}

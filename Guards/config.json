@@ -1,0 +1,45 @@
+{
+    "MONGODB": "mongodb+srv://owsla:15271!Ferhat@owsla.m4zgt.mongodb.net/winner?retryWrites=true&w=majority",
+    "guildID": "786545188897161286",
+    "durum": "Owsla ❤️ ⍫ Incident",
+    "botOwner": "712282397995171871",
+    "OWNER": [
+        "559025915263189005"
+    ],
+    "botPrefix": "cr-",
+    "VOICECHANNEL": "813907911448985621",
+    "BOOSTERROLE": "788203614190436372",
+    "JAILROLE": "813895641465356289",
+    "PROTECTEDURL": "incident",
+
+    "urltoken": "",
+    "urlsunucu": "",
+
+    "ETİKET": "<@&786545189011062818>, <@&799339554506801153>",
+
+    "WEBHOOKID": "828670745387073597",
+    "WEBHOOKTOKEN": "VEhBqX2TIPFoysw5TijaRIoJTha5kOnGvyrL3exOTXmu6ZBx1njR_Y2XW-MpafRDyyNm",
+
+    "MANAGER": "ODI4NjUyNDc2NTE2OTI1NDgw.YGsswg.G56NcobBjgdCZ6YEboMoJimUtRk",
+    "PROTECTORS": ["ODI4NjUyNTU4NTg2NzQwNzc2.YGss1Q.svSKfZ03BNceagVxcblCyOsGTKE",
+"ODI4NjUyNjQ1NjgxMzMyMjY1.YGss6g.woa1PFvoy5c5N9KQoL-g3cx782A",
+"ODI4NjUyNzY3NjgwNjU5NDU4.YGstBw.99Pn9XpF5UhMUoKniih3InWngXg",
+"ODI4NjUyODg3MDQ3MTQzNDg0.YGstIw.BWd4CIeLaHUGnXjtuErQPjFYAio"],
+
+
+    "TOKEN1": "ODI4NjUyNTU4NTg2NzQwNzc2.YGss1Q.svSKfZ03BNceagVxcblCyOsGTKE",
+    "TOKEN2": "ODI4NjUyNjQ1NjgxMzMyMjY1.YGss6g.woa1PFvoy5c5N9KQoL-g3cx782A",
+    "TOKEN3": "ODI4NjUyNzY3NjgwNjU5NDU4.YGstBw.99Pn9XpF5UhMUoKniih3InWngXg",
+    "TOKEN4": "ODI4NjUyODg3MDQ3MTQzNDg0.YGstIw.BWd4CIeLaHUGnXjtuErQPjFYAio",
+    "STAFPERMS": [
+        "ADMINISTRATOR",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "BAN_MEMBERS",
+        "KICK_MEMBERS",
+        "MENTION_EVERYONE",
+        "MANAGE_EMOJIS"
+    ]
+}
